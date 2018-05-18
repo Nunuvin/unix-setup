@@ -8,7 +8,7 @@ case $- in
       *) return;;
 esac
 
-alias vacpsc="ssh vladislav.chestnykh@arm.cpsc.ucalgary.ca"
+
 
 # vi compatible mode
 set editing-mode vi
